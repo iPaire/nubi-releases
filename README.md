@@ -5,61 +5,62 @@
 <h1 align="center">Nubi</h1>
 
 <p align="center">
-  <b>Spune-mi ce vrei să faci. Îți fac loc și nu stric nimic.</b><br>
-  Asistentul tău pentru calculator. Gratuit, fără cont.
+  <b>Tell me what you want to do. I'll make room and I won't break anything.</b><br>
+  The assistant for your Windows PC. Free, no account.
 </p>
 
 <p align="center">
-  <a href="https://usenubi.com/download/windows"><b>Descarcă pentru Windows</b></a>
+  <a href="https://usenubi.com/download/windows"><b>Download for Windows</b></a>
   &nbsp;·&nbsp;
   <a href="https://usenubi.com">usenubi.com</a>
   &nbsp;·&nbsp;
-  <a href="https://usenubi.com/preturi">Prețuri</a>
+  <a href="https://usenubi.com/pricing">Pricing</a>
   &nbsp;·&nbsp;
-  <a href="https://usenubi.com/suport">Suport</a>
+  <a href="https://usenubi.com/support">Support</a>
 </p>
 
 ---
 
-Aici stau versiunile publicate ale lui Nubi: installerul pentru Windows și fișierul din care aplicația află că a apărut o versiune nouă. Codul aplicației nu este public.
+This is where Nubi's published versions live: the Windows installer and the file the app reads to learn that a new version is out. The app's source code is not public.
 
-## Ce face Nubi
+## What Nubi does
 
-Îi spui cu cuvintele tale ce vrei, iar el se ocupă de restul:
+You tell it in your own words what you want, and it takes care of the rest:
 
-- **„Vreau să instalez un joc și nu am loc.”** Îi face loc și lasă în pace tot ce îi trebuie jocului: launcherul, anti-cheat-ul și shaderele.
-- **„Nu știu ce îmi ocupă discul.”** Îți arată pe înțeles ce ocupă locul. Doar se uită, nu schimbă nimic.
-- **„Vreau să-mi mut jocurile pe alt disc.”** Mută un joc Steam pe alt disc și verifică fiecare fișier. Steam îl găsește acolo și nu îl descarcă din nou.
+- **"I want to install a game and I have no space."** It makes room and leaves alone everything the game needs: the launcher, the anti-cheat and the shaders.
+- **"I don't know what's taking up my disk."** It shows you in plain words where the space goes, down to the biggest folders on each drive.
+- **"Just clean it up."** One button, "Do it all". Nubi picks what you no longer use and never suggests your photos, videos or music.
+- **"I want to move my games to another drive."** It moves a Steam game, or a large app folder, to another drive and checks every file. Steam finds the game there and doesn't download it again.
 
-Nu schimbă nimic până nu confirmi. Ce șterge ajunge în Coșul de reciclare, ce mută se poate muta înapoi, iar tot ce face rămâne în Istoric.
+Nothing changes until you confirm. Your documents go to the Recycle Bin, what Nubi moves can be moved back, and everything it does stays in History.
 
-## Instalare
+## Install
 
-1. Descarcă installerul de pe [usenubi.com/download/windows](https://usenubi.com/download/windows) sau din [ultima versiune](https://github.com/iPaire/nubi-releases/releases/latest).
-2. Deschide `Nubi_x64-setup.exe` și urmează pașii. Nu sunt necesare drepturi de administrator.
-3. Pornește Nubi și apasă „Verifică acum”.
+1. Download the installer from [usenubi.com/download/windows](https://usenubi.com/download/windows) or from the [latest release](https://github.com/iPaire/nubi-releases/releases/latest).
+2. Open `Nubi_x64-setup.exe` and follow the steps. No administrator rights needed.
+3. Start Nubi and press "Check now".
 
-**Cerințe:** Windows 10 sau 11, pe 64 de biți, și cam 30 MB liberi. Internetul e necesar doar pentru AI și actualizări.
+**Requirements:** Windows 10 or 11, 64-bit, and about 30 MB free. Internet is only needed for AI and updates.
 
-> Până când installerul va fi semnat digital, Windows poate afișa „Windows v-a protejat PC-ul”. Apasă „Mai multe informații”, apoi „Rulează oricum”. Descarcă Nubi doar de pe usenubi.com sau de pe această pagină.
+> Until the installer is digitally signed, Windows may show "Windows protected your PC". Click "More info", then "Run anyway". Only download Nubi from usenubi.com or from this page.
 
-## Actualizări
+## Updates
 
-Nubi verifică singur, la pornire, dacă a apărut o versiune nouă și te întreabă înainte să o instaleze. Fiecare actualizare este semnată, iar aplicația refuză orice fișier care nu poartă semnătura noastră. Istoricul și setările tale rămân neatinse.
+Nubi checks for a new version by itself when it starts and asks you before installing it. Every update is signed, and the app refuses any file that doesn't carry our signature. Your History and settings stay untouched.
 
-Ce s-a schimbat în fiecare versiune găsești la [Releases](https://github.com/iPaire/nubi-releases/releases).
+What changed in each version is on the [Releases](https://github.com/iPaire/nubi-releases/releases) page.
 
-## Confidențialitate
+## Privacy
 
-Numele și conținutul fișierelor tale nu pleacă niciodată de pe calculator. AI-ul e opțional și primește doar rezumate, de exemplu „Descărcări: 128 de kituri de instalare, 9 GB”. Detaliile sunt în [politica de confidențialitate](https://usenubi.com/confidentialitate).
+The names and contents of your files never leave your PC. The AI is optional and only receives short summaries, for example "Downloads: 128 installers, 9 GB". The details are in the [privacy policy](https://usenubi.com/privacy).
 
-## Ajutor
+## Help
 
-Ai o problemă sau o întrebare? Scrie-ne la [suport@usenubi.com](mailto:suport@usenubi.com) sau intră pe [usenubi.com/suport](https://usenubi.com/suport). Spune-ne ce versiune ai și ce ai încercat să faci. Nu ne trimite parole sau date de card.
+Have a problem or a question? Write to us at [suport@usenubi.com](mailto:suport@usenubi.com) or visit [usenubi.com/support](https://usenubi.com/support). Tell us which version you have and what you tried to do. Don't send us passwords or card details.
 
-## Licență
+## License
 
-Nubi se poate folosi gratuit, conform [termenilor](https://usenubi.com/termeni). Toate drepturile asupra aplicației, numelui și blob-ului Nubi sunt rezervate.
+Nubi is free to use under its [terms](https://usenubi.com/terms). All rights to the app, the Nubi name and the Nubi blob are reserved.
 
 ---
 
